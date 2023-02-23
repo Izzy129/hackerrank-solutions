@@ -9,7 +9,7 @@ This is a repository containing my solutions for [HackerRank](https://www.hacker
 | [Java Loops II](https://www.hackerrank.com/challenges/java-loops) | [Java](https://github.com/Izzy129/hackerrank-solutions/blob/main/Java/Java%20Loops%20II/Solution.java) | 
 
 ## TO-DO
-- [ ] Add solved problems
+- [ ] Add solved problems to table
  
 ## Folder Structure
 
